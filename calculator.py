@@ -1,6 +1,5 @@
 import math
 
-
 def exponentiation(a, b):
     """Return a raised to the power of b."""
     return math.pow(a, b)
