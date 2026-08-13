@@ -1,0 +1,21 @@
+Loan_ID,Customer_Gender,Location,Region,Loan_Amount,Interest_Rate,Loan_Term
+L001,Male,New York,Northeast,15000,5.5,36
+L002,Female,Los Angeles,West,22000,4.8,48
+L003,Male,Chicago,Midwest,18000,5.2,36
+L004,Female,Houston,South,25000,6.1,60
+L005,Male,Phoenix,West,12000,5.8,24
+L006,Female,Philadelphia,Northeast,30000,4.5,60
+L007,Male,San Antonio,South,17000,5.9,36
+L008,Female,San Diego,West,21000,5.0,48
+L009,Male,Dallas,South,28000,6.3,60
+L010,Female,San Jose,West,19000,5.4,36
+L011,Male,Austin,South,14500,5.7,24
+L012,Female,Jacksonville,South,32000,4.2,60
+L013,Male,Fort Worth,South,16500,5.6,36
+L014,Female,Columbus,Midwest,23000,4.9,48
+L015,Male,Charlotte,South,20000,5.3,48
+L016,Female,Indianapolis,Midwest,17500,5.1,36
+L017,Male,Seattle,West,35000,4.0,60
+L018,Female,Denver,West,18500,5.4,36
+L019,Male,Washington,Northeast,27500,4.7,60
+L020,Female,Boston,Northeast,24000,4.6,48
